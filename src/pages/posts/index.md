@@ -1,12 +1,12 @@
 ---
 title: Using Netlify CMS with an Astro site
 publishDate: 16 May 2022
-author: Chris Swithinbank
+author: Siphesihle Bomela
 authorURL: https://twitter.com/swithinbank
 description: How to get started using Netlify CMS to manage your Astro site’s content
 layout: ../../layouts/BlogPost.astro
 ---
-![Astro + Netlify CMS logos tovhtovhstovhsv](/assets/blog/header.png "GGsGGHhGGsGGHhGGsGGHhGGsGGH")
+![Astro + Netlify CMS logos tovhtovhstovhsv]( "GGsGGHhGGsGGHhGGsGGHhGGsGGH")
 
 [Netlify CMS](https://www.netlifycms.org/) is an open-source, Git-based content management system. It provides a single-page app for editing content and can publish that content by committing it to a hosted Git repo (for example on GitHub or GitLab).
 
